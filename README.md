@@ -1,4 +1,4 @@
-# Excel-ipl-Dashboard
+# Excel-ipl-Analysis
 
 ### IPL Dashboard Data Analysis for year (2017-2021)
 
